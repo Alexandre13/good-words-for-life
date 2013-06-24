@@ -1,4 +1,6 @@
-package com.example.goodwordsforlife;
+package www.goodwordsforlife;
+
+import com.example.goodwordsforlife.R;
 
 import android.R.integer;
 import android.os.Bundle;
