@@ -1,6 +1,8 @@
-package com.example.goodwordsforlife;
+package www.goodwordsforlife;
 
 import java.util.Random;
+
+import com.example.goodwordsforlife.R;
 
 import android.os.Bundle;
 import android.app.Activity;
