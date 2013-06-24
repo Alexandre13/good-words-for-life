@@ -1,10 +1,5 @@
 #summary One-sentence summary of this page.
 
-= Introduction =
-
-Add your content here.
-
-
 = GoodWordsForLife =
 
 
@@ -13,7 +8,7 @@ Como criar o seu ambiente de desenvolvimento
 
 Para criar o ambiente de desenvolvimento é preciso ter instalado uma IDE que suporte a criação de projetos Android. A IDE utilizada neste projeto foi o Eclipse ADT(Android Developers Tools) versão: v21.1.0-569685. Passos:
 
-Abra o Eclipse, vá até a barra de ferramentas e selecione a opção "Equipe".
-Escolha a opção "Subversion", no submenu escolha a opção "Checkout...". Feito isso, abrirá uma janela onde você deve informar o endereço em que seu projeto está hospedado para ser baixado em seu computador. Na janela que se abre, no campo "URL do repositório", informe a seguinte url:"https://good-words-for-life.googlecode.com/svn/trunk/". Uma nova janela se abrirá para você escolher qual pasta baixar. Na opção "Pasta(s) do Repositório" clique em "Procurar" e então selecione a pasta "GoodWordsForLife", depois clique em "Ok", voltando para tela anterior clique em "Finalizar".
+Abra o Eclipse, vá até a barra de ferramentas e selecione a opção "File".
+Escolha a opção "Import". Feito isso, escolha a opção "SVN" e "Project from SVN", clique em Next, depois você deve informar o endereço em que seu projeto está hospedado para ser baixado em seu computador. Informe a seguinte url:"https://good-words-for-life.googlecode.com/svn/trunk/" e clique em "Finish".
 
 Feito isso, uma cópia do projeto será baixada para seu computador.
