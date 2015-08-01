@@ -1,0 +1,1 @@
+Aplicativo que exibe frases para melhorar a sua auto-estima, trazendo: paz, tranquilidade, sabedoria e conforto para você em qualquer situação. Disponível em Português(Brasil) e Inglês.
